@@ -8,7 +8,7 @@
     <version>2.1.12</version>
     <packaging>jar</packaging>
 
-    <name>common-utils</name>
+    <name>jfinal-ext</name>
     <url>http://maven.apache.org</url>
 
     <properties>
