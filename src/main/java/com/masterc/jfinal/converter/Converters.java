@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.infoland.jfinal.converter;
+package com.masterc.jfinal.converter;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

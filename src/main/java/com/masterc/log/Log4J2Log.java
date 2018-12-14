@@ -1,4 +1,4 @@
-package com.infoland.log;
+package com.masterc.log;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;

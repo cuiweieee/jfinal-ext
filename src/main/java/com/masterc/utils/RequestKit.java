@@ -1,4 +1,4 @@
-package com.infoland.utils;
+package com.masterc.utils;
 
 import javax.servlet.http.HttpServletRequest;
 import java.net.InetAddress;

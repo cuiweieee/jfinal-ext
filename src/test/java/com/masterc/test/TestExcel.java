@@ -1,4 +1,4 @@
-package com.infoland.test;
+package com.masterc.test;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
@@ -6,7 +6,7 @@ import java.util.List;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.TypeReference;
-import com.infoland.utils.excel.ExportExcel;
+import com.masterc.utils.excel.ExportExcel;
 
 public class TestExcel {
 

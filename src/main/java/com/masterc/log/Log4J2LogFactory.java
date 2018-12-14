@@ -1,4 +1,4 @@
-package com.infoland.log;
+package com.masterc.log;
 
 import com.jfinal.log.ILogFactory;
 import com.jfinal.log.Log;

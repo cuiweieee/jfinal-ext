@@ -17,9 +17,9 @@
 
     <distributionManagement>
         <repository>
-            <id>releases</id>
-            <name>releases</name>
-            <url>http://10.0.1.140:8081/nexus/content/repositories/releases/</url>
+            <id>rdc-releases</id>
+            <name>rdc-releases</name>
+            <url>https://repo.rdc.aliyun.com/repository/40686-release-QmTRHL</url>
         </repository>
     </distributionManagement>
 

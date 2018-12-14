@@ -1,4 +1,4 @@
-package com.infoland.jfinal.converter;
+package com.masterc.jfinal.converter;
 
 @SuppressWarnings("serial")
 public class ConverterException extends RuntimeException {

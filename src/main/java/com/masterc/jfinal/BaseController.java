@@ -1,10 +1,10 @@
-package com.infoland.jfinal;
+package com.masterc.jfinal;
 
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONException;
 import com.alibaba.fastjson.JSONObject;
-import com.infoland.jfinal.converter.ConverterException;
-import com.infoland.jfinal.converter.JsonTypeConverter;
+import com.masterc.jfinal.converter.ConverterException;
+import com.masterc.jfinal.converter.JsonTypeConverter;
 import com.jfinal.core.ActionException;
 import com.jfinal.core.Controller;
 import com.jfinal.core.NotAction;

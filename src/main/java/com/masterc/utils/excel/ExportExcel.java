@@ -3,7 +3,7 @@
  *
  * Licensed under the Apache License, Version 2.0 (the "License");
  */
-package com.infoland.utils.excel;
+package com.masterc.utils.excel;
 
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
@@ -40,8 +40,8 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 import com.google.common.collect.Lists;
-import com.infoland.utils.EncodeKit;
-import com.infoland.utils.ReflectionKit;
+import com.masterc.utils.EncodeKit;
+import com.masterc.utils.ReflectionKit;
 
 /**
  * 导出Excel文件（导出“XLSX”格式，支持大数据量导出）

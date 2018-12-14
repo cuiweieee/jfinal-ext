@@ -1,4 +1,4 @@
-package com.infoland.utils;
+package com.masterc.utils;
 
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;

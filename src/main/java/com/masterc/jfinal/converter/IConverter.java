@@ -1,4 +1,4 @@
-package com.infoland.jfinal.converter;
+package com.masterc.jfinal.converter;
 
 public interface IConverter<T> {
 

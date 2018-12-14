@@ -1,4 +1,4 @@
-package com.infoland.test;
+package com.masterc.test;
 
 import java.util.ArrayList;
 import java.util.List;

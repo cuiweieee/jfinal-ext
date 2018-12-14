@@ -1,6 +1,6 @@
-package com.infoland.test;
+package com.masterc.test;
 
-import com.infoland.utils.excel.ExcelField;
+import com.masterc.utils.excel.ExcelField;
 import com.jfinal.plugin.activerecord.IBean;
 import com.jfinal.plugin.activerecord.Model;
 

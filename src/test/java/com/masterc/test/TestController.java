@@ -1,6 +1,6 @@
-package com.infoland.test;
+package com.masterc.test;
 
-import com.infoland.jfinal.BaseController;
+import com.masterc.jfinal.BaseController;
 
 public class TestController extends BaseController {
 

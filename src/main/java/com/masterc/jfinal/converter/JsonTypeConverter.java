@@ -1,22 +1,22 @@
-package com.infoland.jfinal.converter;
+package com.masterc.jfinal.converter;
 
 import java.util.HashMap;
 import java.util.Map;
 
-import com.infoland.jfinal.converter.Converters.BigDecimalConverter;
-import com.infoland.jfinal.converter.Converters.BigIntegerConverter;
-import com.infoland.jfinal.converter.Converters.BooleanConverter;
-import com.infoland.jfinal.converter.Converters.ByteArrayConverter;
-import com.infoland.jfinal.converter.Converters.ByteConverter;
-import com.infoland.jfinal.converter.Converters.DateConverter;
-import com.infoland.jfinal.converter.Converters.DoubleConverter;
-import com.infoland.jfinal.converter.Converters.FloatConverter;
-import com.infoland.jfinal.converter.Converters.IntegerConverter;
-import com.infoland.jfinal.converter.Converters.LongConverter;
-import com.infoland.jfinal.converter.Converters.ShortConverter;
-import com.infoland.jfinal.converter.Converters.SqlDateConverter;
-import com.infoland.jfinal.converter.Converters.TimeConverter;
-import com.infoland.jfinal.converter.Converters.TimestampConverter;
+import com.masterc.jfinal.converter.Converters.BigDecimalConverter;
+import com.masterc.jfinal.converter.Converters.BigIntegerConverter;
+import com.masterc.jfinal.converter.Converters.BooleanConverter;
+import com.masterc.jfinal.converter.Converters.ByteArrayConverter;
+import com.masterc.jfinal.converter.Converters.ByteConverter;
+import com.masterc.jfinal.converter.Converters.DateConverter;
+import com.masterc.jfinal.converter.Converters.DoubleConverter;
+import com.masterc.jfinal.converter.Converters.FloatConverter;
+import com.masterc.jfinal.converter.Converters.IntegerConverter;
+import com.masterc.jfinal.converter.Converters.LongConverter;
+import com.masterc.jfinal.converter.Converters.ShortConverter;
+import com.masterc.jfinal.converter.Converters.SqlDateConverter;
+import com.masterc.jfinal.converter.Converters.TimeConverter;
+import com.masterc.jfinal.converter.Converters.TimestampConverter;
 import com.jfinal.core.JFinal;
 import com.jfinal.kit.StrKit;
 
